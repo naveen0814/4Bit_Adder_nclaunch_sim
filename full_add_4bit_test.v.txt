@@ -11,4 +11,4 @@ A=4'b0011;B=4'b0011;C0=1'b0;
 #10;
 end initial
 #50 $finish;
-endmodule
+endmodule 
